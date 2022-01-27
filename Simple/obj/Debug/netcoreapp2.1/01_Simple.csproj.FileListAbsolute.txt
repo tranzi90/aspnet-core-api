@@ -1,0 +1,69 @@
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\bin\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 2. Routing\01 RoutingSamples\Simple\obj\Debug\netcoreapp2.1\01_Simple.csproj.CopyComplete

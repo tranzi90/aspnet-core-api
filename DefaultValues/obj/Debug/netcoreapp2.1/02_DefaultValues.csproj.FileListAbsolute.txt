@@ -1,0 +1,50 @@
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Test\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Home\List.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\bin\Debug\netcoreapp2.1\02_DefaultValues.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Home\List.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\Razor\Views\Test\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 4. Routing\01 RoutingSamples\DefaultValues\obj\Debug\netcoreapp2.1\02_DefaultValues.csproj.CopyComplete
